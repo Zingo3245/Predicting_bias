@@ -4,19 +4,19 @@ There has been a lot of talk about bias in the news media but it can be hard to 
 [Link to the presentation is here.](https://docs.google.com/presentation/d/1mNt1oTEbnIo8dft-9t8eyCWhxiZ4TmNtIiYeK5ahjY4/edit?usp=sharing)
 
 ## Tools used
-Pandas
-Numpy
-SKLearn
-Anaconda
-Requests
-BeautifulSoup
-Time
-Selenium
-Pickle
-Matplotlib
-Scipy
-Math
-NLTK
+* Pandas
+* Numpy
+* SKLearn
+* Anaconda
+* Requests
+* BeautifulSoup
+* Time
+* Selenium
+* Pickle
+* Matplotlib
+* Scipy
+* Math
+* NLTK
 
 ## Installation
 ```bash
